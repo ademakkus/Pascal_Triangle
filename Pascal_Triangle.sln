@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{83325BAF-4718-4D4A-8EBB-886036E6BAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT2", "PT2\PT2.csproj", "{ABE6ED59-4C64-4B4D-960C-0FD8A28EF7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT3", "PT3\PT3.csproj", "{18DB5AC9-DEA7-4267-A23B-7B0E2E5A59AC}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83325BAF-4718-4D4A-8EBB-886036E6BAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83325BAF-4718-4D4A-8EBB-886036E6BAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83325BAF-4718-4D4A-8EBB-886036E6BAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83325BAF-4718-4D4A-8EBB-886036E6BAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE6ED59-4C64-4B4D-960C-0FD8A28EF7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE6ED59-4C64-4B4D-960C-0FD8A28EF7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE6ED59-4C64-4B4D-960C-0FD8A28EF7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE6ED59-4C64-4B4D-960C-0FD8A28EF7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DB5AC9-DEA7-4267-A23B-7B0E2E5A59AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DB5AC9-DEA7-4267-A23B-7B0E2E5A59AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DB5AC9-DEA7-4267-A23B-7B0E2E5A59AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DB5AC9-DEA7-4267-A23B-7B0E2E5A59AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
